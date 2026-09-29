@@ -1,0 +1,1 @@
+La limpieza de los Datos , se realizo en powerQuery Dentro de la interfaz de Power Bi .
